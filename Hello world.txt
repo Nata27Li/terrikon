@@ -1,1 +1,2 @@
 print('Hello spring!')
+print('Hello new day!')
